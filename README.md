@@ -1,6 +1,6 @@
 # JS-ClientLocation
 
-Small Javascript library for obtaining the IP address and/or location using CloudFlare and ipinfo.io (not affilated).  
+Small Javascript library for obtaining the IP address and/or location using CloudFlare and ipinfo.io (not affiliated).
 
 **Note:** Ideally you should use the JavaScript location API to obtain the user's location. This simply is an alternative which does not require the visitor to enable location services.  
 
