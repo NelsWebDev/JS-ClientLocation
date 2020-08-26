@@ -8,8 +8,9 @@ Small Javascript library for obtaining the IP address and/or location using Clou
 
 Download the client-location.js file, embedding it into your web page using HTML script tags.
 
+```html
 <script src="//domain.com/path/to/js/client-location.js"></script>
-
+```
 ##### Functions 
 
 Feel free to rename the userIPAddress and jsonLocationObj to whatever you want. 
